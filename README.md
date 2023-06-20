@@ -61,13 +61,15 @@ Hosting Providers
 Watch
 * Fitbit Versa 2
 
-Photography/Nature Gear
+Photography/Nature/Lighting Gear
 * Nikon D7000
 * Lens 1: Nikor 70-300mm AFS VR
 * Lens 2: Sigma 17-70 17-70mm F2.8-4 DC MACRO OS HSM 
 * Lens 3: MIAO Lab Smartphone Macro Lens
 * Scope: Celestron Ultima 80
-* Lepiled Composite LED Light (USB powered)
+* Flashlight: Olight S2R II 1150 Lumens Rechargeable LED Flashlight
+* Moth Light 1: [Lepiled Standard 1.0](https://www.gunnarbrehm.de/en/lepi-led) - lightweight (only c. 410 g), small, robust and efficien composite LED USB-powered Light
+* Moth Lights 2/3: Cheap USB Blacklight party strips
 * Gikwbc 38,800 mAH USB Battery Pack (4 USB Output, USB C & Micro USB Input)
 * Imuto Powerbank
 * EN-EL15 USB Charger for Nikon
