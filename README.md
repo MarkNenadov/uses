@@ -23,6 +23,7 @@ Web/Application Severs
 
 Other Software/Services
 * Gimp
+* Bitwarden
 * Audacity
 * NX Studio
 * Slack
