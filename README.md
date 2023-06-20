@@ -2,13 +2,16 @@
 
 ## Hardware
 * MacBook Pro 16-inch
+* Logitech M720 Triathlon Mouse
+* Das Keyboard
+* Bose QC 35 II Headset
 
 ## OS
 * macOS Montery (Laptop)
 * Ubuntu (Server)
 
 ## IDEs/Editors
-* IntelliJ (Kotlin, Java) - Light mode 💡 (😈😂)
+* IntelliJ (Kotlin, Java) - Light mode all the way 💡 (😈😂)
 * PyCharm (Python)
 * Visual Studio Code (everything else)
 * Vim (console)
