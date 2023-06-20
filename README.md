@@ -18,11 +18,32 @@
 
 ## Terminal
 * [Warp](https://www.warp.dev/)
+* Terminus (SSH)
+* Bash (Linux), Zsh (Mac)
 
 Web/Application Severs
 * Apache
 * NGINX
 * Tomcat
+
+Key Phone Apps
+* Pockect Casts (podcasts)
+* Spotify
+* Pocket
+* Goodreads
+* Scribd
+* Reader
+* iNaturalist
+* eBird
+* YNAB
+* Sibley V2
+* Leps
+* SayHi (Translation)
+* Duoling (language learning)
+* WhatsApp
+* Stocard
+* ESV
+* YouVersion
 
 Other Software/Services
 * Gimp
@@ -30,7 +51,6 @@ Other Software/Services
 * Audacity
 * NX Studio
 * Slack
-* Terminus (SSH)
 * FileZilla (SFTP/FTP)
 * Gramps (Geneology)
 
