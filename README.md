@@ -1,12 +1,12 @@
 # Things I Use
 
-## Hardware
+## Computer Hardware
 * MacBook Pro 16-inch
 * Logitech M720 Triathlon Mouse
 * Das Keyboard
 * Bose QC 35 II Headset
 
-## OS
+## Computer OS
 * macOS Montery (Laptop)
 * Ubuntu (Server)
 
@@ -33,13 +33,10 @@ Key Phone Apps
 * Goodreads
 * Scribd
 * Reader
-* iNaturalist
-* eBird
+* Nature: iNaturalist, eBird, Merlin, Sibley V2, Leps
 * YNAB
-* Sibley V2
-* Leps
 * SayHi (Translation)
-* Duoling (language learning)
+* Duolingo (language learning)
 * WhatsApp
 * Stocard
 * ESV
@@ -62,7 +59,7 @@ Watch
 * Fitbit Versa 2
 
 Photography/Nature/Lighting Gear
-* Nikon D7000
+* SLR Camera: Nikon D7000
 * Lens 1: Nikor 70-300mm AFS VR
 * Lens 2: Sigma 17-70 17-70mm F2.8-4 DC MACRO OS HSM 
 * Lens 3: MIAO Lab Smartphone Macro Lens
@@ -70,6 +67,7 @@ Photography/Nature/Lighting Gear
 * Flashlight: Olight S2R II 1150 Lumens Rechargeable LED Flashlight
 * Moth Light 1: [Lepiled Standard 1.0](https://www.gunnarbrehm.de/en/lepi-led) - lightweight (only c. 410 g), small, robust and efficien composite LED USB-powered Light
 * Moth Lights 2/3: Cheap USB Blacklight party strips
-* Gikwbc 38,800 mAH USB Battery Pack (4 USB Output, USB C & Micro USB Input)
-* Imuto Powerbank
+* USB Powerpack 1: Gikwbc 38,800 mAH USB Battery Pack (4 USB Output, USB C & Micro USB Input)
+* USB Powerpack 2: Imuto Powerbank (? mAH)
+* USB Powerpack 3: ?
 * EN-EL15 USB Charger for Nikon
