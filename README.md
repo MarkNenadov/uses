@@ -65,7 +65,7 @@ Photography/Nature/Lighting Gear
 * Lens 3: MIAO Lab Smartphone Macro Lens
 * Scope: Celestron Ultima 80
 * Flashlight: Olight S2R II 1150 Lumens Rechargeable LED Flashlight
-* Moth Light 1: [Lepiled Standard 1.0](https://www.gunnarbrehm.de/en/lepi-led) - lightweight (only c. 410 g), small, robust and efficien composite LED USB-powered Light
+* Moth Light 1: [Lepiled Standard 1.0](https://www.gunnarbrehm.de/en/lepi-led) - lightweight (only c. 410 g), small, robust and efficient composite LED USB-powered Light
 * Moth Lights 2/3: Cheap USB Blacklight party strips
 * USB Powerpack 1: Gikwbc 38,800 mAH USB Battery Pack (4 USB Output, USB C & Micro USB Input)
 * USB Powerpack 2: Imuto Powerbank (? mAH)
