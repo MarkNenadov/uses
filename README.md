@@ -16,6 +16,10 @@
 * Visual Studio Code (everything else)
 * Vim (console)
 
+## Development Choices/Opinions
+* Styling: Tailwind CSS
+* JDK: Azul/Zulu
+
 ## Terminal
 * [Warp](https://www.warp.dev/)
 * Terminus (SSH)
