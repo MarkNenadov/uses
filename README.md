@@ -29,12 +29,12 @@ Web/Application Severs
 Key Phone Apps
 * Pockect Casts (podcasts)
 * Spotify
-* Pocket
+* Pocket (articles)
 * Goodreads
-* Scribd
-* Reader
+* Scribd (audiobooks/ebooks)
+* Reader (RSS feed)
 * Nature: iNaturalist, eBird, Merlin, Sibley V2, Leps
-* YNAB
+* YNAB (budget)
 * SayHi (Translation)
 * Duolingo (language learning)
 * WhatsApp
@@ -44,9 +44,9 @@ Key Phone Apps
 
 Other Software/Services
 * Gimp
-* Bitwarden
-* Audacity
-* NX Studio
+* Bitwarden (password management)
+* Audacity (sound recording/editing)
+* NX Studio (processing RAW Nikon images)
 * Slack
 * FileZilla (SFTP/FTP)
 * Gramps (Geneology)
@@ -68,6 +68,6 @@ Photography/Nature/Lighting Gear
 * Moth Light 1: [Lepiled Standard 1.0](https://www.gunnarbrehm.de/en/lepi-led) - lightweight (only c. 410 g), small, robust and efficient composite LED USB-powered Light
 * Moth Lights 2/3: Cheap USB Blacklight party strips
 * USB Powerpack 1: Gikwbc 38,800 mAH USB Battery Pack (4 USB Output, USB C & Micro USB Input)
-* USB Powerpack 2: Imuto Powerbank (? mAH)
+* USB Powerpack 2: Imuto 27,000 mAH QC 3.0
 * USB Powerpack 3: ?
 * EN-EL15 USB Charger for Nikon
