@@ -2,6 +2,7 @@
 
 ## Computer Hardware
 * 💻 MacBook Pro 16-inch
+* 🖥️ BenQ PD2710QC
 * 🐭 Logitech M720 Triathlon Mouse
 * Das Mechnical Keyboard (Model: DASK4MKPROSIL-3G7-r1.4)
 * Bose QC 35 II Headset
@@ -16,9 +17,11 @@
 * Visual Studio Code (everything else)
 * Vim (console)
 
-## Development Choices/Opinions
-* Styling: Tailwind CSS
-* JDK: Azul/Zulu
+## Libraries/Frameworks/SDKs
+* Tailwind CSS
+* React
+* Alpine
+* Azul JDK
 
 ## Terminal
 * [Warp](https://www.warp.dev/)
