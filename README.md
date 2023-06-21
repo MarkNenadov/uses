@@ -50,7 +50,7 @@
 * YouVersion
 
 ## Other Software/Services
-* Gimp
+* 🎨 Gimp
 * 🔒 Bitwarden (password management)
 * Audacity (sound recording/editing)
 * NX Studio (processing RAW Nikon images)
