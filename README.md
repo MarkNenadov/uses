@@ -20,6 +20,7 @@
 ## Libraries/Frameworks/SDKs
 * Tailwind CSS
 * React
+* Next.js
 * Alpine
 * Azul JDK
 
@@ -66,6 +67,7 @@
 ## Hosting Providers
 * Linode
 * AWS
+* Vercel
 
 ## Watch
 * ⌚ Fitbit Versa 2
