@@ -8,8 +8,8 @@
 * Bose QC 35 II Headset
 
 ## Computer OS
-* macOS Montery (Laptop)
-* Ubuntu (Server)
+* macOS Ventura 13.6 (Laptop)
+* Ubuntu 22.04.3 LTS (Server)
 
 ## IDEs/Editors
 * IntelliJ (Kotlin, Java) - Light mode all the way 💡 (😈😂)
