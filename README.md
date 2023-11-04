@@ -8,7 +8,7 @@
 * Bose QC 35 II Headset
 
 ## Computer OS
-* macOS Sonoma 14.0 (Laptop)
+* macOS Sonoma 14.1 (Laptop)
 * Ubuntu 22.04.3 LTS (Server)
 
 ## IDEs/Editors
@@ -26,7 +26,7 @@
 
 ## Terminal
 * [Warp](https://www.warp.dev/)
-* Terminus (SSH)
+* Termius (SSH)
 * Bash (Linux), Zsh (Mac)
 
 ## Web/Application Severs
