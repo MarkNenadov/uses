@@ -11,6 +11,13 @@
 * macOS Sonoma 14.1 (Laptop)
 * Ubuntu 22.04.3 LTS (Server)
 
+## Programming Languages
+* Kotlin
+* Java
+* Ruby
+* Python
+* Typescript
+
 ## IDEs/Editors
 * IntelliJ (Kotlin, Java) - Light mode all the way 💡 (😈😂)
 * PyCharm (Python)
@@ -61,6 +68,7 @@
 * Audacity (sound recording/editing)
 * NX Studio (processing RAW Nikon images)
 * Slack
+* Notion
 * FileZilla (SFTP/FTP)
 * Gramps (Geneology)
 
