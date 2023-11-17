@@ -11,6 +11,12 @@
 * macOS Sonoma 14.1 (Laptop)
 * Ubuntu 22.04.3 LTS (Server)
 
+## IDEs/Editors
+* IntelliJ (Kotlin, Java) - Light mode all the way 💡 (😈😂)
+* PyCharm (Python)
+* Visual Studio Code (everything else)
+* Vim (console)
+
 ## Programming Languages
 * Kotlin
 * Java
@@ -18,18 +24,17 @@
 * Python
 * Typescript
 
-## IDEs/Editors
-* IntelliJ (Kotlin, Java) - Light mode all the way 💡 (😈😂)
-* PyCharm (Python)
-* Visual Studio Code (everything else)
-* Vim (console)
-
 ## Libraries/Frameworks/SDKs
 * Tailwind CSS
 * React
 * Next.js
 * Alpine
 * Azul JDK
+
+## Programming Tools
+* GitHub
+* GitHub Copilot
+* kslint
 
 ## Terminal
 * [Warp](https://www.warp.dev/)
@@ -45,30 +50,35 @@
 * ☕ Coffee: Gevalia
 * [PC 1L Cold Brew Maker](https://www.presidentschoice.ca/product/pc-cold-brew-maker/21490676_EA)
 
-
 ## Key Phone Apps
 * Pockect Casts (podcasts)
 * Spotify
 * Pocket (articles)
+* Reeder (RSS)
 * Goodreads
 * Scribd (audiobooks/ebooks)
-* Reader (RSS feed)
 * Nature: iNaturalist, eBird, Merlin, Sibley V2, Leps
 * YNAB (budget)
 * SayHi (Translation)
-* Duolingo (language learning)
+* Duolingo (language learning and now math and music)
 * WhatsApp
 * Stocard
 * ESV
 * YouVersion
 
+Collaboration Apps
+* Slack
+* Google Meet
+* Zoom
+* Tuple
+
 ## Other Software/Services
 * 🎨 Gimp
+* Docker
+* Postman
 * 🔒 Bitwarden (password management)
 * Audacity (sound recording/editing)
 * NX Studio (processing RAW Nikon images)
-* Slack
-* Notion
 * FileZilla (SFTP/FTP)
 * Gramps (Geneology)
 
