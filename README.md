@@ -8,7 +8,7 @@
 * Bose QC 35 II Headset
 
 ## Computer OS
-* macOS Sonoma 14.4 (Laptop)
+* macOS Sonoma 14.5 (Laptop)
 * Ubuntu 22.04.3 LTS (Server)
 
 ## IDEs/Editors
