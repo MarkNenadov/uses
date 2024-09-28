@@ -8,12 +8,12 @@
 * Bose QC 35 II Headset
 
 ## Computer OS
-* macOS Sonoma 14.5 (Laptop)
+* macOS Sequoia 15.0 (Laptop)
 * Ubuntu 22.04.3 LTS (Server)
 
 ## IDEs/Editors
-* IntelliJ (Kotlin, Java) - Light mode all the way 💡 (😈😂)
-* PyCharm (Python)
+* IntelliJ IDEA (Kotlin, Java, Typescript) - Light mode all the way 💡 (😈😂)
+* IntelliJ PyCharm (Python)
 * Visual Studio Code (everything else)
 * Vim (console)
 
