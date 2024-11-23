@@ -8,7 +8,7 @@
 * Bose QC 35 II Headset
 
 ## Computer OS
-* macOS Sequoia 15.0 (Laptop)
+* macOS Sequoia 15.1.1 (Laptop)
 * Ubuntu 22.04.3 LTS (Server)
 
 ## IDEs/Editors
