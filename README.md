@@ -8,7 +8,7 @@
 * Bose QC 35 II Headset (if you need replacement pads, [these](https://www.amazon.ca/Replacement-QuietComfort-SoundLink-SoundTrue-Around-Ear/dp/B0748LSFLW/ref=sr_1_1_sspa?crid=2CPSCCSP35EY4&dib=eyJ2IjoiMSJ9.d3utLthaKD2ddmRU4X9u0ePT3wRpT8UmYX-MqHtNRzMqgcis3A9EcwW1zbM9l18l59QR8I65_CAUxZG4lajruIwfm5cyXRqI7ZoPMeYSPjIUESYTQMdQLIvUB609QWVwwQoO0UkhzGBL6dh6BGKGjpK0SrJZru6salDDmYvwj0T7_rX2O0qLrge14EtijvM1_dEXvtD4yBAYa8Jmfny4aF06C2f0aEqN5X8eNkNcRgeM_WbU-Nf8k1qvcseupNRt2rKM6T-J3wZnuhlgPQD5vnFrTRNJ0KfaImXPfrV91Ww.3-oSvTny8KoKBl2vVyzihIvuSO2-Pa5xBIIckzS8e0o&dib_tag=se&keywords=boise%2BBose%2BQC%2B35%2BII%2Breplacement%2Bheadset&qid=1732399586&sprefix=boise%2Bbose%2Bqc%2B35%2Bii%2Breplacement%2Bheadse%2Caps%2C116&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1) are what you want)
 
 ## Computer OS
-* macOS Sequoia 15.1.1 (Laptop)
+* macOS Sequoia 15.3.1 (Laptop)
 * Ubuntu 22.04.3 LTS (Server)
 
 ## IDEs/Editors
