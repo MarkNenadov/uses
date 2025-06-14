@@ -36,6 +36,7 @@
 ## Programming Tools
 * GitHub
 * GitHub Copilot
+* Cursor
 * kslint
 
 ## Terminal
@@ -85,7 +86,6 @@ Collaboration Apps
 * Gramps (Geneology)
 
 ## Hosting Providers
-* Linode
 * AWS
 * Vercel
 
