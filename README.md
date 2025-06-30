@@ -15,6 +15,7 @@
 * IntelliJ IDEA (Kotlin, Java, Typescript) - Light mode all the way 💡 (😈😂)
 * IntelliJ PyCharm (Python)
 * Visual Studio Code (everything else)
+* Cursor
 * Vim (console)
 
 ## Programming Languages
